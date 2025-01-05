@@ -22,7 +22,7 @@ const route = createHashRouter(
     { path: "*", element: <Error /> },
   ],
   {
-    basename: "/Framework-Page/",
+    // basename: "/Framework-Page/",
   }
 );
 
